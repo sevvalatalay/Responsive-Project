@@ -1,0 +1,213 @@
+.card1 {
+  width: 20%;
+  height: 65px;
+  background: #68587e;
+  display: flex;
+  float: left;
+}
+.card2 {
+  width: 80%;
+  height: 65px;
+  background: #cfc1b2;
+  display: flex;
+  float: left;
+}
+.nav {
+  width: 100%;
+  height: 120px;
+  background: #642e2e;
+}
+.nav h3 {
+  display: flex;
+  float: left;
+  padding-left: 4%;
+  color: white;
+}
+.section {
+  width: 100%;
+  height: 650px;
+  text-align: center;
+  background: #d9d9d9;
+}
+.news {
+  line-height: 50px;
+  padding-top: 10px;
+  margin-top: 2%;
+}
+
+.news1 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+  margin-left: 6.5%;
+
+  background-color: #4f85a3;
+}
+.news2 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+
+  background-color: #d05153;
+}
+.news3 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+  margin-right: 5%;
+
+  background-color: rgb(228, 175, 76);
+}
+.news4 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+  margin-left: 6.5%;
+
+  background-color: #4f85a3;
+}
+.news5 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+
+  background-color: #d05153;
+}
+.news6 {
+  width: 25%;
+  height: 200px;
+  margin: 3%;
+  float: left;
+  margin-right: 5%;
+
+  background-color: rgb(228, 175, 76);
+}
+.about {
+  width: 100%;
+  max-height: 1000px;
+  margin-top: 2%;
+  padding-bottom: 2.5%;
+
+  background: #336981;
+}
+.hakkimizda {
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-bottom: 3%;
+}
+.services {
+  margin-top: 2%;
+  padding-top: 10px;
+  text-align: center;
+  width: 100%;
+  height: 650px;
+  background: #d9d9d9;
+}
+.service1 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-left: 6.5%;
+
+  background-color: #00b8ad;
+}
+.service2 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+
+  background-color: #c06e57;
+}
+.service3 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-right: 3%;
+
+  background-color: #5e9c44;
+}
+.service4 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-right: 5%;
+
+  background-color: rgb(183, 99, 158);
+}
+.service5 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-left: 6.5%;
+
+  background-color: #00b8ad;
+}
+.service6 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+
+  background-color: #c06e57;
+}
+.service7 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-right: 3%;
+
+  background-color: #5e9c44;
+}
+.service8 {
+  width: 17%;
+  height: 200px;
+  margin: 3.1%;
+  float: left;
+  margin-right: 5%;
+
+  background-color: rgb(183, 99, 158);
+}
+.contact {
+  width: 100%;
+  padding-top: 10px;
+  margin-top: 2%;
+  height: 440px;
+
+  background: #d9d9d9;
+}
+.contact h2 {
+  text-align: center;
+}
+input {
+  background-color: #656565;
+  border: none;
+}
+.inputs {
+  margin: 3%;
+}
+.footer {
+  width: 100%;
+  padding-top: 10px;
+  margin-top: 2%;
+  height: 55px;
+  background-color: #2e2e2e;
+  text-align: center;
+}
+
+.contact p {
+  margin-bottom: 0px;
+}
